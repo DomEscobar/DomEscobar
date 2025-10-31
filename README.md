@@ -10,9 +10,7 @@ My repos span AI, automation, creative coding, and beyond.
 
 - [Social-Poster-API](https://github.com/DomEscobar/Social-Poster-API) – Automate your social media strategy
 - [1000prototypes](https://github.com/DomEscobar/1000prototypes) – Rapid prototyping at scale
-- [psyopsAi](https://github.com/DomEscobar/psyopsAi) – Exploring AI for next-gen user experiences
-- [melondo-new](https://github.com/DomEscobar/melondo-new) – Intelligent automation tools
-- [momentstogether](https://github.com/DomEscobar/momentstogether) – HTML-powered creative moments
+- - [vibemedia]([https://github.com/DomEscobar/1000prototypes](https://vibemedia.space/)) – AI Placeholder API 
 
 _...and over 160 more! [See all projects →](https://github.com/DomEscobar?tab=repositories&q=&type=public&sort=updated)_
 
