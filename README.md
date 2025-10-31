@@ -1,4 +1,4 @@
-# 👋 Hi, I’m DomEscobar
+# 👋 Hi, I’m Dominic
 
 Welcome to my digital playground!  
 I'm passionate about building creative, impactful, and intelligent software solutions.  
